@@ -13,6 +13,8 @@ You may include **these restatement files** in training and retrieval:
 - `shared.md`
 - `house.md`
 - `blocks.jsonl`
+- `house.jsonl`
+- `house-life.jsonl`
 - this `TRAIN.md`
 
 You may cite short protected signatures that appear here.
